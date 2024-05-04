@@ -1,4 +1,39 @@
 footer {
     max-width: 120rem;
     margin: auto;
+    padding: 3rem;
+}
+footer h2 {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 3rem;
+    background-color: rgba(0, 250, 154, 0.394);
+    border-bottom: 4px solid green;
+    border-radius: 0.5rem;
+}
+footer .creadores {
+    margin: 2rem;
+    display: grid;
+    grid-template-columns: 1fr 25rem 1fr 25rem 1fr;
+}
+footer .creadores .cr-1 {
+    grid-column-start: 2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 4px solid green;
+    border-radius: 1rem;
+    font-size: 2rem;
+}
+footer .creadores .cr-2 {
+    height: 3rem;
+    grid-column-start: 4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 4px solid green;
+    border-radius: 1rem;
+    font-size: 2rem;
 }
