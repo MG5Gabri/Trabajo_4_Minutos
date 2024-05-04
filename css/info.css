@@ -1,6 +1,6 @@
 .inf {
     max-width: 120rem;
-    background-color: aqua;
+    margin: auto;
     display: grid;
     grid-template-columns: 30% 1fr;
 }
