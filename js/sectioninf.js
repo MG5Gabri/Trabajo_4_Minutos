@@ -2,11 +2,11 @@ let li_section=document.querySelector(".inf")
     li_section.innerHTML=`
     <div class="inf-mn">
         <nav class="menu">
-            <li class="menu-opt-1">CPU<a herf="index.htm"></a></li>
-            <li class="menu-opt-2">GPU<a herf="cpu.html"></a></li>
-            <li class="menu-opt-3">MB<a herf="gpu.htm"></a></li>
-            <li class="menu-opt-4">RAM<a herf="mb.htm"></a></li>
-            <li class="menu-opt-5">HHD,SSD,M2<a herf="ram.htm"></a></li>
+            <li class="menu-opt-1"><a href="index.html">index</a></li>
+            <li class="menu-opt-2"><a href="cpu.html">CPU</a></li>
+            <li class="menu-opt-3"><a href="gpu.html">GPU</a></li>
+            <li class="menu-opt-4"><a href="mb.html">MB</a></li>
+            <li class="menu-opt-5"><a href="ram.htm">RAM</a></li>
         </nav>
     </div>
     <div class="inf-des">
