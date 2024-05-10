@@ -2,7 +2,7 @@ let li_section=document.querySelector(".inf")
     li_section.innerHTML=`
     <div class="inf-mn">
         <nav class="menu">
-            <li class="menu-opt-1"><a href="index.html">index</a></li>
+            <li class="menu-opt-1"><a href="index.html">Index</a></li>
             <li class="menu-opt-2"><a href="cpu.html">CPU</a></li>
             <li class="menu-opt-3"><a href="gpu.html">GPU</a></li>
             <li class="menu-opt-4"><a href="mb.html">MB</a></li>
@@ -22,10 +22,10 @@ let li_section=document.querySelector(".inf")
             <div class="inf-c-list">
                 <li>Ejecuta instrucciones de programas.</li>
                 <li>Realiza calculos aritmeticos y logicos.</li>
-                <li>coordina el funcionamiento del sistema </li>
+                <li>Coordina el funcionamiento del sistema </li>
                 <li>Velocidad medida en GHz</li>
                 <li>Nucleos para multitarea</li>
-                <li>componente principal de una computadora</li>
+                <li>Componente principal de una computadora</li>
             </div>
         </div>
     </div>
