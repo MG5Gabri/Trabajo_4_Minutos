@@ -6,7 +6,7 @@ let li_section=document.querySelector(".inf")
             <li class="menu-opt-2"><a href="cpu.html">CPU</a></li>
             <li class="menu-opt-3"><a href="gpu.html">GPU</a></li>
             <li class="menu-opt-4"><a href="mb.html">MB</a></li>
-            <li class="menu-opt-5"><a href="ram.htm">RAM</a></li>
+            <li class="menu-opt-5"><a href="ram.html">RAM</a></li>
         </nav>
     </div>
     <div class="inf-des">
