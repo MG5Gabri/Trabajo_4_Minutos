@@ -73,7 +73,9 @@
 }
 .inf .inf-des .des-tx p{
     background-color: rgba(129, 255, 3, 0.5);
-
+    font-size: 1.8rem;
+    display: flex;
+    align-items: center;
 }
 .inf .inf-des .des-tx .des-img {
     background-color: aqua;
@@ -97,4 +99,6 @@
     margin-top: 1rem;
     display: grid;
     grid-template-columns: 1fr 1fr;
+    gap: 1rem;
+    font-size: 1.6rem;
 }
