@@ -30,6 +30,7 @@
     border: 2px solid rgb(0, 150, 93);
     text-decoration: none;
     border-radius: 1rem;
+    color: white;
    
 }
 .inf .inf-mn .menu .menu-opt-2 {
@@ -38,6 +39,7 @@
     border: 2px solid rgb(0, 150, 93);
     text-decoration:none ;
     border-radius: 1rem;
+    color: white;
 }
 .inf .inf-mn .menu .menu-opt-3 {
     background-color:rgb(0, 150, 93);
@@ -45,6 +47,7 @@
     border: 2px solid rgb(0, 150, 93);
   text-decoration: none;
   border-radius: 1rem;
+  color: white;
 }
 .inf .inf-mn .menu .menu-opt-4 {
     background-color:rgb(0, 150, 93);
@@ -52,6 +55,7 @@
     border: 2px solid rgb(0, 150, 93);
    text-decoration: none;
    border-radius: 1rem;
+   color: white;
 }
 .inf .inf-mn .menu .menu-opt-5 {
     background-color:rgb(0, 150, 93);
@@ -59,6 +63,7 @@
     border: 2px solid rgb(0, 150, 93);
    text-decoration: none;
    border-radius: 1rem;
+   color: white;
 }
 .inf .inf-mn .menu a {
    margin-left: 5rem;
