@@ -8,3 +8,10 @@ html {
     font-size: 10px;
     font-family: "Barlow", sans-serif;
 }
+body {
+    max-width: 120rem;
+    margin: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 10px;
+}
