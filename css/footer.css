@@ -1,7 +1,10 @@
 footer {
-    max-width: 120rem;
+    border-top: 2px solid rgb(198, 100, 20);
+    padding-top: 1rem;
+    width: 100%;
     margin: auto;
     margin-top: 1rem;
+    grid-column: 1/4;
 }
 footer .creadores {
     height: 20rem;
